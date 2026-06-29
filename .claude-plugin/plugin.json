@@ -1,6 +1,6 @@
 {
   "name": "gen-meta-skills",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Personal skills marketplace for Claude Code — project structure guides, development workflows, and meta-skills",
   "author": {
     "name": "LinearKF"
