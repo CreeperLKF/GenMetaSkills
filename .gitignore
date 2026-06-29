@@ -1,0 +1,10 @@
+# Editor and IDE
+.vscode/
+.idea/
+
+# Claude Code agent state
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+{
+  "name": "gen-meta-skills",
+  "version": "0.1.0",
+  "description": "Personal skills marketplace for Claude Code — project structure guides, development workflows, and meta-skills",
+  "author": {
+    "name": "LinearKF"
+  },
+  "repository": "https://github.com/CreeperLKF/GenMetaSkills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "project-structure",
+    "workflow",
+    "personal"
+  ],
+  "skills": ["./skills/"]
+}
