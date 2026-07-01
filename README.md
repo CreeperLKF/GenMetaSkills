@@ -1,6 +1,6 @@
 # GenMetaSkills
 
-A personal marketplace of Claude Code skills and plugins.
+A meta-skill marketplace for Coding Agents: high-level workflow skills for dual-level repository structure, context governance, privileged ops on remote machines, multi-agent orchestration, and incoming skill admission review.
 
 ## Skills
 
