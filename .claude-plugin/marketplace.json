@@ -11,7 +11,7 @@
       "name": "gen-meta-skills",
       "source": "./",
       "description": "Personal skills marketplace — project structure guides, development workflows, and meta-skills",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "LinearKF"
       },
