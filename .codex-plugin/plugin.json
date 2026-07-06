@@ -1,0 +1,39 @@
+{
+  "name": "gen-meta-skills",
+  "version": "1.0.0",
+  "description": "Personal skills marketplace for Coding Agents: project structure guides, development workflows, and meta-skills",
+  "author": {
+    "name": "LinearKF"
+  },
+  "homepage": "https://github.com/CreeperLKF/GenMetaSkills",
+  "repository": "https://github.com/CreeperLKF/GenMetaSkills",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "claude-code",
+    "skills",
+    "project-structure",
+    "workflow",
+    "meta-skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GenMetaSkills",
+    "shortDescription": "Workflow skills for project structure, context control, remote ops, orchestration, and skill review.",
+    "longDescription": "GenMetaSkills packages reusable agent workflow skills for NutShell project structure, clean context delivery, remote sudo handoffs, teammate orchestration, and marketplace admission review.",
+    "developerName": "LinearKF",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/CreeperLKF/GenMetaSkills",
+    "brandColor": "#2563EB",
+    "defaultPrompt": [
+      "Use nutshell-develop to orient this workspace.",
+      "Use context-filter to clean this handoff.",
+      "Use meta-skill-check to review this skill."
+    ]
+  }
+}
