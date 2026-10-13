@@ -29,3 +29,11 @@ description: Use when [triggering conditions and context]
 ## Supporting Files
 
 Place heavy references (100+ lines), templates, or scripts in the skill directory alongside `SKILL.md`. Keep inline anything under ~50 lines.
+
+## Deprecating a Skill
+
+Move the complete skill directory from `skills/` to `deprecated/`, outside the
+plugin skill entry point. Add a dated deprecation notice to its README and move
+its root README entry to the deprecated skills table. Keep relative references
+within the archived directory intact and remove active-feature claims from plugin
+metadata. Bump all plugin and marketplace version fields together.

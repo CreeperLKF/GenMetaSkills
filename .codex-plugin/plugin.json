@@ -1,6 +1,6 @@
 {
   "name": "gen-meta-skills",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Personal skills marketplace for Coding Agents: project structure guides, development workflows, and meta-skills",
   "author": {
     "name": "LinearKF"
@@ -19,8 +19,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "GenMetaSkills",
-    "shortDescription": "Workflow skills for project structure, context control, remote ops, orchestration, and skill review.",
-    "longDescription": "GenMetaSkills packages reusable agent workflow skills for NutShell project structure, clean context delivery, remote sudo handoffs, teammate orchestration, and marketplace admission review.",
+    "shortDescription": "Workflow skills for project structure, context control, remote ops, and skill review.",
+    "longDescription": "GenMetaSkills packages reusable agent workflow skills for NutShell project structure, clean context delivery, remote sudo handoffs, and marketplace admission review.",
     "developerName": "LinearKF",
     "category": "Coding",
     "capabilities": [

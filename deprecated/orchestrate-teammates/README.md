@@ -1,4 +1,10 @@
-# orchestrate-teammates
+# orchestrate-teammates (deprecated)
+
+> Deprecated on 2026-10-13. Archived for historical reference and excluded from the
+> default plugin skill directory. This workflow is no longer maintained as an active
+> skill. Use the host agent's current multi-agent tools and workspace instructions
+> when parallel work is explicitly requested. The original instructions below are
+> retained for reference, not as current invocation guidance.
 
 A reference skill for coordinating multiple agent sessions as one working team.
 
